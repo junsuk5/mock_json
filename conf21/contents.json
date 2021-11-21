@@ -1,0 +1,2909 @@
+{
+  "success": true,
+  "code": 0,
+  "data": [
+    {
+      "idx": 20,
+      "createdUserIdx": 16,
+      "createdDateTime": "2021-10-28 15:38:53",
+      "lastModifiedUserIdx": 16,
+      "lastModifiedDateTime": "2021-11-10 10:39:47",
+      "categoryIdx": 6,
+      "title": "이용자의 소중한 일상을 지키는 카카오톡",
+      "content": "이용자의 소중한 일상을 지키려는 카카오톡의 노력을 소개합니다.\n\n카카오톡의 대화와 사진, 동영상뿐만 아니라 아이디와 비밀번호,\n대용량 파일도 안전하게 보관하는 '톡서랍' 업그레이드,\n디지털 세상에서 내가 나임을 증명할 수 있는 '신분증',\n환경 보호와 개인 정보 보호 두 마리 토끼를 잡는 '톡명함',\n그리고 '오픈채팅'에서의 이용자 보호 조치들에 대한 이야기를 나눕니다.",
+      "contentTag": "#카카오톡  #톡서랍업그레이드  #신분증  #톡명함  #오픈채팅이용자보호",
+      "spotlightYn": "Y",
+      "field": "서비스",
+      "sessionType": "A Type",
+      "commentYn": "Y",
+      "company": "카카오",
+      "reservationDate": "20211116",
+      "reservationTime": "1000",
+      "linkList": {
+        "FILE": [
+          
+        ],
+        "IMAGE": [
+          
+        ],
+        "WEB_URL": [
+          
+        ],
+        "VIDEO": [
+          {
+            "idx": 3683,
+            "contentsIdx": 20,
+            "type": "VIDEO",
+            "fileSize": 0,
+            "url": "https://tv.kakao.com/embed/player/cliplink/423791694",
+            "description": "09:41",
+            "mainYn": "N"
+          }
+        ],
+        "PC_THUMBNAIL": [
+          
+        ],
+        "MO_THUMBNAIL": [
+          
+        ],
+        "TALK_THUMBNAIL": [
+          
+        ],
+        "SPEAKER_PROFILE": [
+          {
+            "idx": 3682,
+            "contentsIdx": 20,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 109555,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635403129640",
+            "description": "If Kakao_CPO_1022.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_MAIN_IMAGE": [
+          {
+            "idx": 3677,
+            "contentsIdx": 20,
+            "type": "PC_MAIN_IMAGE",
+            "fileSize": 170699,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635403318460",
+            "description": "***1027_A세션_썸네일_42.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_MAIN_IMAGE": [
+          {
+            "idx": 3678,
+            "contentsIdx": 20,
+            "type": "MO_MAIN_IMAGE",
+            "fileSize": 87866,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635403306708",
+            "description": "***1027_A세션_썸네일_61.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_IMAGE": [
+          {
+            "idx": 3679,
+            "contentsIdx": 20,
+            "type": "PC_IMAGE",
+            "fileSize": 68188,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635403330102",
+            "description": "***1027_A세션_썸네일_2.png",
+            "mainYn": "Y"
+          }
+        ],
+        "MO_IMAGE": [
+          {
+            "idx": 3680,
+            "contentsIdx": 20,
+            "type": "MO_IMAGE",
+            "fileSize": 20136,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635403338353",
+            "description": "***1027_A세션_썸네일_22.png",
+            "mainYn": "N"
+          }
+        ],
+        "SHARE_IMAGE": [
+          {
+            "idx": 3681,
+            "contentsIdx": 20,
+            "type": "SHARE_IMAGE",
+            "fileSize": 68188,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635403350046",
+            "description": "***1027_A세션_썸네일_2.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_SPOTLIGHT": [
+          {
+            "idx": 3675,
+            "contentsIdx": 20,
+            "type": "PC_SPOTLIGHT",
+            "fileSize": 38760,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635403280606",
+            "description": "***1027_A세션_썸네일_79.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_SPOTLIGHT": [
+          {
+            "idx": 3676,
+            "contentsIdx": 20,
+            "type": "MO_SPOTLIGHT",
+            "fileSize": 24294,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635403263604",
+            "description": "***1027_A세션_썸네일_97.png",
+            "mainYn": "N"
+          }
+        ]
+      },
+      "relationList": {
+        "CLASSIFICATION": [
+          "플랫폼",
+          "디지털자산"
+        ],
+        "TECH_CLASSIFICATION": [
+          
+        ],
+        "MAIN_EXPOSURE_DAY": [
+          "1Day"
+        ]
+      },
+      "contentsSpeakerList": [
+        {
+          "idx": 1273,
+          "contentsIdx": 20,
+          "nameKo": "김택수",
+          "nameEn": "felix",
+          "company": "카카오",
+          "occupation": "CPO"
+        }
+      ],
+      "favoriteYn": "N",
+      "newCountentsYn": "N",
+      "updateCountentsYn": "N",
+      "companyName": "카카오",
+      "speakerName": "felix김택수",
+      "speakerLoginYn": "N",
+      "reservationUTC": 1636992000000,
+      "reservationYn": "Y",
+      "videoYn": "Y"
+    },
+    {
+      "idx": 45,
+      "createdUserIdx": 16,
+      "createdDateTime": "2021-10-28 16:34:45",
+      "lastModifiedUserIdx": 16,
+      "lastModifiedDateTime": "2021-11-16 15:51:55",
+      "categoryIdx": 6,
+      "title": "카카오와 사회혁신가가 만나면:  카카오임팩트 펠로우십 1년의 스토리",
+      "content": "혁신가들의 레이블, 카카오임팩트 펠로우십 론칭 후 1년 간의 다양한 시도와 함께 꿈꾸는 변화에 관한 이야기를 소개합니다. \n\n지난 1년 동안 카카오임팩트는 24명의 혁신가를 펠로우로 선정하고, 카카오와 함께 다양한 지원을 해왔습니다. \n그중 혁신가의 목소리와 어젠다를 영향력 있는 콘텐츠와 채널을 통해 널리 알리도록 돕는 ‘확성기’ 지원의 다양한 사례들을 소개하고, 나아가 카카오의 콘텐츠, 기술, 플랫폼과 연계해 사회 문제 해결의 실마리를 찾아가는 이야기를 들려드립니다. \n\n카카오와 사회혁신가가 만나 앞으로 만들게 될 더 나은 세상으로의 변화를 함께 상상해보시기 바랍니다.",
+      "contentTag": "#카카오임팩트 #카카오임팩트펠로우십 #펠로우십 #더나은세상 #확성기 #기업재단",
+      "spotlightYn": "Y",
+      "field": "서비스",
+      "sessionType": "A Type",
+      "commentYn": "Y",
+      "company": "카카오",
+      "reservationDate": "20211116",
+      "reservationTime": "1000",
+      "linkList": {
+        "FILE": [
+          
+        ],
+        "IMAGE": [
+          
+        ],
+        "WEB_URL": [
+          
+        ],
+        "VIDEO": [
+          {
+            "idx": 4673,
+            "contentsIdx": 45,
+            "type": "VIDEO",
+            "fileSize": 0,
+            "url": "https://tv.kakao.com/embed/player/cliplink/423955927",
+            "description": "18:16",
+            "mainYn": "N"
+          }
+        ],
+        "PC_THUMBNAIL": [
+          
+        ],
+        "MO_THUMBNAIL": [
+          
+        ],
+        "TALK_THUMBNAIL": [
+          
+        ],
+        "SPEAKER_PROFILE": [
+          {
+            "idx": 4671,
+            "contentsIdx": 45,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 112080,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408142730",
+            "description": "If kakao_impact_1022.png",
+            "mainYn": "N"
+          },
+          {
+            "idx": 4672,
+            "contentsIdx": 45,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 117737,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408147897",
+            "description": "If kakao_impact2_1022.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_MAIN_IMAGE": [
+          {
+            "idx": 4666,
+            "contentsIdx": 45,
+            "type": "PC_MAIN_IMAGE",
+            "fileSize": 99463,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408067686",
+            "description": "임팩트.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_MAIN_IMAGE": [
+          {
+            "idx": 4667,
+            "contentsIdx": 45,
+            "type": "MO_MAIN_IMAGE",
+            "fileSize": 48171,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408079499",
+            "description": "임팩트.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_IMAGE": [
+          {
+            "idx": 4668,
+            "contentsIdx": 45,
+            "type": "PC_IMAGE",
+            "fileSize": 26449,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408051998",
+            "description": "임팩트.png",
+            "mainYn": "Y"
+          }
+        ],
+        "MO_IMAGE": [
+          {
+            "idx": 4669,
+            "contentsIdx": 45,
+            "type": "MO_IMAGE",
+            "fileSize": 8748,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408092161",
+            "description": "임팩트.png",
+            "mainYn": "N"
+          }
+        ],
+        "SHARE_IMAGE": [
+          {
+            "idx": 4670,
+            "contentsIdx": 45,
+            "type": "SHARE_IMAGE",
+            "fileSize": 26449,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408057068",
+            "description": "임팩트.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_SPOTLIGHT": [
+          {
+            "idx": 4664,
+            "contentsIdx": 45,
+            "type": "PC_SPOTLIGHT",
+            "fileSize": 19235,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420005992",
+            "description": "임팩트.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_SPOTLIGHT": [
+          {
+            "idx": 4665,
+            "contentsIdx": 45,
+            "type": "MO_SPOTLIGHT",
+            "fileSize": 12715,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420019849",
+            "description": "임팩트.png",
+            "mainYn": "N"
+          }
+        ]
+      },
+      "relationList": {
+        "CLASSIFICATION": [
+          "플랫폼",
+          "소셜임팩트"
+        ],
+        "TECH_CLASSIFICATION": [
+          
+        ],
+        "MAIN_EXPOSURE_DAY": [
+          "1Day"
+        ]
+      },
+      "contentsSpeakerList": [
+        {
+          "idx": 1467,
+          "contentsIdx": 45,
+          "nameKo": "육심나",
+          "nameEn": "sienna",
+          "company": "카카오임팩트",
+          "occupation": "사무국장",
+          "channelLink": "https://pf.kakao.com/_MiBCd"
+        },
+        {
+          "idx": 1468,
+          "contentsIdx": 45,
+          "nameKo": "정연주",
+          "nameEn": "juni",
+          "company": "카카오임팩트",
+          "occupation": "사업팀장"
+        }
+      ],
+      "favoriteYn": "N",
+      "newCountentsYn": "N",
+      "updateCountentsYn": "N",
+      "companyName": "카카오",
+      "speakerName": "sienna육심나",
+      "speakerLoginYn": "N",
+      "reservationUTC": 1636992000000,
+      "reservationYn": "Y",
+      "videoYn": "Y"
+    },
+    {
+      "idx": 46,
+      "createdUserIdx": 16,
+      "createdDateTime": "2021-10-28 16:35:04",
+      "lastModifiedUserIdx": 16,
+      "lastModifiedDateTime": "2021-11-09 16:21:21",
+      "categoryIdx": 6,
+      "title": "기술과 혁신으로 금융과 고객의 만남을 더 이롭게",
+      "content": "카카오뱅크가 혁신하는 이유는 '고객'입니다. \n\n카카오뱅크는 기술과 혁신으로 고객의 금융 생활을 더 풍요롭고, 재밌고, 행복하게 만들 수 있다고 생각합니다. \n\n카카오뱅크의 기술과 혁신이 만드는 고객의 '더 나은 금융 Life'에 대한 이야기를 나누고자 합니다.",
+      "contentTag": "#카카오뱅크 #금융혁신 #금융기술 #금융생활 #고객중심 #더나은금융Life",
+      "spotlightYn": "Y",
+      "field": "서비스",
+      "sessionType": "A Type",
+      "commentYn": "Y",
+      "company": "카카오뱅크",
+      "reservationDate": "20211116",
+      "reservationTime": "1000",
+      "linkList": {
+        "FILE": [
+          
+        ],
+        "IMAGE": [
+          
+        ],
+        "WEB_URL": [
+          
+        ],
+        "VIDEO": [
+          {
+            "idx": 3611,
+            "contentsIdx": 46,
+            "type": "VIDEO",
+            "fileSize": 0,
+            "url": "https://tv.kakao.com/embed/player/cliplink/423774816",
+            "description": "25:18",
+            "mainYn": "N"
+          }
+        ],
+        "PC_THUMBNAIL": [
+          
+        ],
+        "MO_THUMBNAIL": [
+          
+        ],
+        "TALK_THUMBNAIL": [
+          
+        ],
+        "SPEAKER_PROFILE": [
+          {
+            "idx": 3610,
+            "contentsIdx": 46,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 112894,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408208659",
+            "description": "If Kakao_Bank_CEO_1021.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_MAIN_IMAGE": [
+          {
+            "idx": 3605,
+            "contentsIdx": 46,
+            "type": "PC_MAIN_IMAGE",
+            "fileSize": 839396,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408279954",
+            "description": "뱅크.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_MAIN_IMAGE": [
+          {
+            "idx": 3606,
+            "contentsIdx": 46,
+            "type": "MO_MAIN_IMAGE",
+            "fileSize": 347381,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408288147",
+            "description": "뱅크.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_IMAGE": [
+          {
+            "idx": 3607,
+            "contentsIdx": 46,
+            "type": "PC_IMAGE",
+            "fileSize": 173311,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408260152",
+            "description": "뱅크.png",
+            "mainYn": "Y"
+          }
+        ],
+        "MO_IMAGE": [
+          {
+            "idx": 3608,
+            "contentsIdx": 46,
+            "type": "MO_IMAGE",
+            "fileSize": 33569,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408268809",
+            "description": "뱅크.png",
+            "mainYn": "N"
+          }
+        ],
+        "SHARE_IMAGE": [
+          {
+            "idx": 3609,
+            "contentsIdx": 46,
+            "type": "SHARE_IMAGE",
+            "fileSize": 839396,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408236038",
+            "description": "뱅크.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_SPOTLIGHT": [
+          {
+            "idx": 3603,
+            "contentsIdx": 46,
+            "type": "PC_SPOTLIGHT",
+            "fileSize": 40232,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635419975187",
+            "description": "뱅크.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_SPOTLIGHT": [
+          {
+            "idx": 3604,
+            "contentsIdx": 46,
+            "type": "MO_SPOTLIGHT",
+            "fileSize": 25368,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635419965232",
+            "description": "뱅크.png",
+            "mainYn": "N"
+          }
+        ]
+      },
+      "relationList": {
+        "CLASSIFICATION": [
+          "핀테크",
+          "디지털자산"
+        ],
+        "TECH_CLASSIFICATION": [
+          
+        ],
+        "MAIN_EXPOSURE_DAY": [
+          "1Day"
+        ]
+      },
+      "contentsSpeakerList": [
+        {
+          "idx": 1265,
+          "contentsIdx": 46,
+          "nameKo": "윤호영",
+          "nameEn": "daniel",
+          "company": "카카오뱅크",
+          "occupation": "CEO",
+          "channelLink": "https://pf.kakao.com/_SxbmHu"
+        }
+      ],
+      "favoriteYn": "N",
+      "newCountentsYn": "N",
+      "updateCountentsYn": "N",
+      "companyName": "카카오뱅크",
+      "speakerName": "daniel윤호영",
+      "speakerLoginYn": "N",
+      "reservationUTC": 1636992000000,
+      "reservationYn": "Y",
+      "videoYn": "Y"
+    },
+    {
+      "idx": 50,
+      "createdUserIdx": 16,
+      "createdDateTime": "2021-10-28 16:35:57",
+      "lastModifiedUserIdx": 16,
+      "lastModifiedDateTime": "2021-11-09 16:22:22",
+      "categoryIdx": 6,
+      "title": "NFT, 크리에이터와 팬을 연결하다",
+      "content": "지난 2년이 넘는 시간 동안 그라운드 엑스는 블록체인으로 보다 나은 세상을 만들기 위해 노력해왔습니다.\n\n이제 그라운드 엑스가 GX2.0을 통해 새로운 미래를 준비하려고 합니다.\n바로 블록체인의 킬러 서비스를 통해 디지털 자산의 글로벌 리더\"가 되는 것입니다.\n\n그라운드 엑스는 이를 위해 디지털 자산 기술의 핵심 중 하나인 NFT와 이를 활용한 크리에이터 경제에 집중하고자 합니다.\n오늘 저희가 들려드릴 이야기는 그라운드 엑스가 만들어 가고 있는 블록체인을 통해 누구나 디지털 크리에이터가 될 수 있는 세상\"에 관한 이야기입니다.",
+      "contentTag": "#Klaytn #GroundX #Blockchain #NFT #NFTArt #DigitalArt #Kakao",
+      "spotlightYn": "Y",
+      "field": "서비스",
+      "sessionType": "A Type",
+      "commentYn": "Y",
+      "company": "그라운드X",
+      "reservationDate": "20211116",
+      "reservationTime": "1000",
+      "linkList": {
+        "FILE": [
+          
+        ],
+        "IMAGE": [
+          
+        ],
+        "WEB_URL": [
+          
+        ],
+        "VIDEO": [
+          {
+            "idx": 3629,
+            "contentsIdx": 50,
+            "type": "VIDEO",
+            "fileSize": 0,
+            "url": "https://tv.kakao.com/embed/player/cliplink/423774382",
+            "description": "40:23",
+            "mainYn": "N"
+          }
+        ],
+        "PC_THUMBNAIL": [
+          
+        ],
+        "MO_THUMBNAIL": [
+          
+        ],
+        "TALK_THUMBNAIL": [
+          
+        ],
+        "SPEAKER_PROFILE": [
+          {
+            "idx": 3628,
+            "contentsIdx": 50,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 120909,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408603748",
+            "description": "If Kakao_ground_X_1022.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_MAIN_IMAGE": [
+          {
+            "idx": 3623,
+            "contentsIdx": 50,
+            "type": "PC_MAIN_IMAGE",
+            "fileSize": 286682,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408620862",
+            "description": "그라운드.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_MAIN_IMAGE": [
+          {
+            "idx": 3624,
+            "contentsIdx": 50,
+            "type": "MO_MAIN_IMAGE",
+            "fileSize": 135627,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408632190",
+            "description": "그라운드.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_IMAGE": [
+          {
+            "idx": 3625,
+            "contentsIdx": 50,
+            "type": "PC_IMAGE",
+            "fileSize": 107726,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408645143",
+            "description": "그라운드.png",
+            "mainYn": "Y"
+          }
+        ],
+        "MO_IMAGE": [
+          {
+            "idx": 3626,
+            "contentsIdx": 50,
+            "type": "MO_IMAGE",
+            "fileSize": 25748,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408651713",
+            "description": "그라운드.png",
+            "mainYn": "N"
+          }
+        ],
+        "SHARE_IMAGE": [
+          {
+            "idx": 3627,
+            "contentsIdx": 50,
+            "type": "SHARE_IMAGE",
+            "fileSize": 107726,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408659096",
+            "description": "그라운드.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_SPOTLIGHT": [
+          {
+            "idx": 3621,
+            "contentsIdx": 50,
+            "type": "PC_SPOTLIGHT",
+            "fileSize": 48830,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420065973",
+            "description": "그라운드.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_SPOTLIGHT": [
+          {
+            "idx": 3622,
+            "contentsIdx": 50,
+            "type": "MO_SPOTLIGHT",
+            "fileSize": 29234,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420075935",
+            "description": "그라운드.png",
+            "mainYn": "N"
+          }
+        ]
+      },
+      "relationList": {
+        "CLASSIFICATION": [
+          "크리에이터",
+          "디지털자산"
+        ],
+        "TECH_CLASSIFICATION": [
+          "블록체인"
+        ],
+        "MAIN_EXPOSURE_DAY": [
+          "1Day"
+        ]
+      },
+      "contentsSpeakerList": [
+        {
+          "idx": 1267,
+          "contentsIdx": 50,
+          "nameKo": "한재선",
+          "nameEn": "jason",
+          "company": "그라운드X",
+          "occupation": "CEO"
+        }
+      ],
+      "favoriteYn": "N",
+      "newCountentsYn": "N",
+      "updateCountentsYn": "N",
+      "companyName": "그라운드X",
+      "speakerName": "jason한재선",
+      "speakerLoginYn": "N",
+      "reservationUTC": 1636992000000,
+      "reservationYn": "Y",
+      "videoYn": "Y"
+    },
+    {
+      "idx": 51,
+      "createdUserIdx": 16,
+      "createdDateTime": "2021-10-28 16:36:19",
+      "lastModifiedUserIdx": 16,
+      "lastModifiedDateTime": "2021-11-09 16:22:46",
+      "categoryIdx": 6,
+      "title": "카카오엔터프라이즈가 그려가고 있는  Enterprise IT",
+      "content": "카카오엔터프라이즈호가 출항을 한 지 2주년을 맞이했습니다. \n카카오엔터프라이즈가 일궈낸 기술과 비즈니스 성과를 소개하고, 우리가 어떤 회사인지, 어떤 차별점을 갖는지, 궁극적으로 지향하는 바를 나누고자 합니다. \n끝으로 함께 성장하고 상생하고자 하는 노력, 그리고 우수한 개발자들과 함께 만들어갈 미래에 대해 이야기할 예정입니다.",
+      "contentTag": "#카카오엔터프라이즈 #AI #클라우드 #상생 #동반성장 #Enterprise #IT #B2B #디지털혁신 ",
+      "spotlightYn": "Y",
+      "field": "서비스",
+      "sessionType": "A Type",
+      "commentYn": "Y",
+      "company": "카카오엔터프라이즈",
+      "reservationDate": "20211116",
+      "reservationTime": "1000",
+      "linkList": {
+        "FILE": [
+          
+        ],
+        "IMAGE": [
+          
+        ],
+        "WEB_URL": [
+          
+        ],
+        "VIDEO": [
+          {
+            "idx": 3638,
+            "contentsIdx": 51,
+            "type": "VIDEO",
+            "fileSize": 0,
+            "url": "https://tv.kakao.com/embed/player/cliplink/423774672",
+            "description": "09:25",
+            "mainYn": "N"
+          }
+        ],
+        "PC_THUMBNAIL": [
+          
+        ],
+        "MO_THUMBNAIL": [
+          
+        ],
+        "TALK_THUMBNAIL": [
+          
+        ],
+        "SPEAKER_PROFILE": [
+          {
+            "idx": 3637,
+            "contentsIdx": 51,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 93556,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408788415",
+            "description": "If Kakao_Enterprise_CEO_1021.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_MAIN_IMAGE": [
+          {
+            "idx": 3632,
+            "contentsIdx": 51,
+            "type": "PC_MAIN_IMAGE",
+            "fileSize": 286032,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408760333",
+            "description": "엔터프.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_MAIN_IMAGE": [
+          {
+            "idx": 3633,
+            "contentsIdx": 51,
+            "type": "MO_MAIN_IMAGE",
+            "fileSize": 153205,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408749130",
+            "description": "엔터프.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_IMAGE": [
+          {
+            "idx": 3634,
+            "contentsIdx": 51,
+            "type": "PC_IMAGE",
+            "fileSize": 116584,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408717285",
+            "description": "엔터프.png",
+            "mainYn": "Y"
+          }
+        ],
+        "MO_IMAGE": [
+          {
+            "idx": 3635,
+            "contentsIdx": 51,
+            "type": "MO_IMAGE",
+            "fileSize": 32358,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408738538",
+            "description": "엔터프.png",
+            "mainYn": "N"
+          }
+        ],
+        "SHARE_IMAGE": [
+          {
+            "idx": 3636,
+            "contentsIdx": 51,
+            "type": "SHARE_IMAGE",
+            "fileSize": 116584,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408721420",
+            "description": "엔터프.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_SPOTLIGHT": [
+          {
+            "idx": 3630,
+            "contentsIdx": 51,
+            "type": "PC_SPOTLIGHT",
+            "fileSize": 5790,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420150435",
+            "description": "엔터프.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_SPOTLIGHT": [
+          {
+            "idx": 3631,
+            "contentsIdx": 51,
+            "type": "MO_SPOTLIGHT",
+            "fileSize": 4113,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420122864",
+            "description": "엔터프.png",
+            "mainYn": "N"
+          }
+        ]
+      },
+      "relationList": {
+        "CLASSIFICATION": [
+          "B2B",
+          "플랫폼"
+        ],
+        "TECH_CLASSIFICATION": [
+          "머신러닝/AI",
+          "클라우드"
+        ],
+        "MAIN_EXPOSURE_DAY": [
+          "1Day"
+        ]
+      },
+      "contentsSpeakerList": [
+        {
+          "idx": 1268,
+          "contentsIdx": 51,
+          "nameKo": "백상엽",
+          "nameEn": "andrew",
+          "company": "카카오엔터프라이즈",
+          "occupation": "CEO",
+          "channelLink": "https://pf.kakao.com/_lVmtT"
+        }
+      ],
+      "favoriteYn": "N",
+      "newCountentsYn": "N",
+      "updateCountentsYn": "N",
+      "companyName": "카카오엔터프라이즈",
+      "speakerName": "andrew백상엽",
+      "speakerLoginYn": "N",
+      "reservationUTC": 1636992000000,
+      "reservationYn": "Y",
+      "videoYn": "Y"
+    },
+    {
+      "idx": 44,
+      "createdUserIdx": 16,
+      "createdDateTime": "2021-10-28 16:33:20",
+      "lastModifiedUserIdx": 16,
+      "lastModifiedDateTime": "2021-11-11 10:24:31",
+      "categoryIdx": 6,
+      "title": "함께 성장하는 카카오 비즈니스",
+      "content": "파트너와 유저가 함께 성장하는 카카오 비즈니스 이야기입니다.\n파트너에게는 데이터의 투명한 공유! 이용자에게는 꼭 필요한 메시지만 제공!\n\n톡 안에서 비즈니스를 완결성 있게 풀어주는 솔루션, 이제 거래형 플랫폼으로 진화하는 ‘톡 비즈니스’를 그려봅니다.",
+      "contentTag": "#카카오톡채널  #거래형플랫폼  #카카오비즈니스",
+      "spotlightYn": "Y",
+      "field": "비즈니스",
+      "sessionType": "A Type",
+      "commentYn": "Y",
+      "company": "카카오",
+      "reservationDate": "20211116",
+      "reservationTime": "1000",
+      "linkList": {
+        "FILE": [
+          
+        ],
+        "IMAGE": [
+          
+        ],
+        "WEB_URL": [
+          
+        ],
+        "VIDEO": [
+          {
+            "idx": 4277,
+            "contentsIdx": 44,
+            "type": "VIDEO",
+            "fileSize": 0,
+            "url": "https://tv.kakao.com/embed/player/cliplink/423813229",
+            "description": "15:52",
+            "mainYn": "N"
+          }
+        ],
+        "PC_THUMBNAIL": [
+          
+        ],
+        "MO_THUMBNAIL": [
+          
+        ],
+        "TALK_THUMBNAIL": [
+          
+        ],
+        "SPEAKER_PROFILE": [
+          {
+            "idx": 4276,
+            "contentsIdx": 44,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 103383,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635407865550",
+            "description": "If Kakao_CBO_1021.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_MAIN_IMAGE": [
+          {
+            "idx": 4271,
+            "contentsIdx": 44,
+            "type": "PC_MAIN_IMAGE",
+            "fileSize": 85289,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635407896349",
+            "description": "비즈니스.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_MAIN_IMAGE": [
+          {
+            "idx": 4272,
+            "contentsIdx": 44,
+            "type": "MO_MAIN_IMAGE",
+            "fileSize": 44015,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635407905563",
+            "description": "비즈니스.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_IMAGE": [
+          {
+            "idx": 4273,
+            "contentsIdx": 44,
+            "type": "PC_IMAGE",
+            "fileSize": 25394,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635407917794",
+            "description": "비즈니스.png",
+            "mainYn": "Y"
+          }
+        ],
+        "MO_IMAGE": [
+          {
+            "idx": 4274,
+            "contentsIdx": 44,
+            "type": "MO_IMAGE",
+            "fileSize": 8042,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635407927876",
+            "description": "비즈니스.png",
+            "mainYn": "N"
+          }
+        ],
+        "SHARE_IMAGE": [
+          {
+            "idx": 4275,
+            "contentsIdx": 44,
+            "type": "SHARE_IMAGE",
+            "fileSize": 25394,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635407940197",
+            "description": "비즈니스.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_SPOTLIGHT": [
+          {
+            "idx": 4269,
+            "contentsIdx": 44,
+            "type": "PC_SPOTLIGHT",
+            "fileSize": 14967,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635419892697",
+            "description": "비즈니스.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_SPOTLIGHT": [
+          {
+            "idx": 4270,
+            "contentsIdx": 44,
+            "type": "MO_SPOTLIGHT",
+            "fileSize": 9715,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635419908015",
+            "description": "비즈니스.png",
+            "mainYn": "N"
+          }
+        ]
+      },
+      "relationList": {
+        "CLASSIFICATION": [
+          "플랫폼",
+          "구독",
+          "파트너성장"
+        ],
+        "TECH_CLASSIFICATION": [
+          
+        ],
+        "MAIN_EXPOSURE_DAY": [
+          "1Day"
+        ]
+      },
+      "contentsSpeakerList": [
+        {
+          "idx": 1385,
+          "contentsIdx": 44,
+          "nameKo": "이종원",
+          "nameEn": "zedd",
+          "company": "카카오",
+          "occupation": "CBO"
+        }
+      ],
+      "favoriteYn": "N",
+      "newCountentsYn": "N",
+      "updateCountentsYn": "N",
+      "companyName": "카카오",
+      "speakerName": "zedd이종원",
+      "speakerLoginYn": "N",
+      "reservationUTC": 1636992000000,
+      "reservationYn": "Y",
+      "videoYn": "Y"
+    },
+    {
+      "idx": 48,
+      "createdUserIdx": 16,
+      "createdDateTime": "2021-10-28 16:35:32",
+      "lastModifiedUserIdx": 16,
+      "lastModifiedDateTime": "2021-11-16 18:49:59",
+      "categoryIdx": 6,
+      "title": "카카오브레인, Unthinkable Question",
+      "content": "AI 서비스로 모두에게 따뜻한 친구가 되어줄 수 있을까?\n최고의 AI 기술을 100배 더 좋게 만들 수 있을까?\n\n모든 혁신은 생각하지 못한 물음으로부터 비롯된다고 믿습니다\n연구, 기술, 서비스 모든 영역에서 만들어내는 Unthinkable 임팩트를 만듭니다\n\nAI가 모두의 삶에 당연해지는 Unithinkable Life를 준비합니다\n카카오브레인 시즌 2.0을 소개합니다.",
+      "contentTag": " #kakaobrain2.0 #AIstartup #Unthinkable_Question #impactful_answer",
+      "spotlightYn": "Y",
+      "field": "기술",
+      "sessionType": "A Type",
+      "qnaStartDay": "1",
+      "qnaStartTime": "10:00",
+      "qnaEndTime": "11:00",
+      "commentYn": "Y",
+      "company": "카카오브레인",
+      "reservationDate": "20211116",
+      "reservationTime": "1000",
+      "linkList": {
+        "FILE": [
+          
+        ],
+        "IMAGE": [
+          
+        ],
+        "WEB_URL": [
+          
+        ],
+        "VIDEO": [
+          {
+            "idx": 4682,
+            "contentsIdx": 48,
+            "type": "VIDEO",
+            "fileSize": 0,
+            "url": "https://tv.kakao.com/embed/player/cliplink/423963887",
+            "description": "09:09",
+            "mainYn": "N"
+          }
+        ],
+        "PC_THUMBNAIL": [
+          
+        ],
+        "MO_THUMBNAIL": [
+          
+        ],
+        "TALK_THUMBNAIL": [
+          
+        ],
+        "SPEAKER_PROFILE": [
+          {
+            "idx": 4681,
+            "contentsIdx": 48,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 101105,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635408386961",
+            "description": "If Kakao_Brain_CEO_1021.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_MAIN_IMAGE": [
+          {
+            "idx": 4676,
+            "contentsIdx": 48,
+            "type": "PC_MAIN_IMAGE",
+            "fileSize": 93361,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636353066938",
+            "description": "step3main_pc_2.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_MAIN_IMAGE": [
+          {
+            "idx": 4677,
+            "contentsIdx": 48,
+            "type": "MO_MAIN_IMAGE",
+            "fileSize": 49744,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636353075510",
+            "description": "step3main_mo_2.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_IMAGE": [
+          {
+            "idx": 4678,
+            "contentsIdx": 48,
+            "type": "PC_IMAGE",
+            "fileSize": 35488,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636353085517",
+            "description": "session_img_pc_2.png",
+            "mainYn": "Y"
+          }
+        ],
+        "MO_IMAGE": [
+          {
+            "idx": 4679,
+            "contentsIdx": 48,
+            "type": "MO_IMAGE",
+            "fileSize": 11981,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636353102431",
+            "description": "session_img_mo_2.png",
+            "mainYn": "N"
+          }
+        ],
+        "SHARE_IMAGE": [
+          {
+            "idx": 4680,
+            "contentsIdx": 48,
+            "type": "SHARE_IMAGE",
+            "fileSize": 35488,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636353090442",
+            "description": "session_img_pc_2.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_SPOTLIGHT": [
+          {
+            "idx": 4674,
+            "contentsIdx": 48,
+            "type": "PC_SPOTLIGHT",
+            "fileSize": 6544,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636353036681",
+            "description": "브레인.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_SPOTLIGHT": [
+          {
+            "idx": 4675,
+            "contentsIdx": 48,
+            "type": "MO_SPOTLIGHT",
+            "fileSize": 5154,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636353048513",
+            "description": "spotlight_mo_2.png",
+            "mainYn": "N"
+          }
+        ]
+      },
+      "relationList": {
+        "CLASSIFICATION": [
+          
+        ],
+        "TECH_CLASSIFICATION": [
+          "머신러닝/AI",
+          "데이터",
+          "클라우드"
+        ],
+        "MAIN_EXPOSURE_DAY": [
+          "1Day"
+        ]
+      },
+      "contentsSpeakerList": [
+        {
+          "idx": 1469,
+          "contentsIdx": 48,
+          "nameKo": "김일두",
+          "nameEn": "curtis",
+          "company": "카카오브레인",
+          "occupation": "CEO",
+          "loginEmail": "aaabb@kakao.com"
+        }
+      ],
+      "favoriteYn": "N",
+      "newCountentsYn": "N",
+      "updateCountentsYn": "N",
+      "companyName": "카카오브레인",
+      "speakerName": "curtis김일두",
+      "speakerLoginYn": "N",
+      "reservationUTC": 1636992000000,
+      "reservationYn": "Y",
+      "videoYn": "Y"
+    },
+    {
+      "idx": 11,
+      "createdUserIdx": 8,
+      "createdDateTime": "2021-10-26 16:35:16",
+      "lastModifiedUserIdx": 16,
+      "lastModifiedDateTime": "2021-11-16 09:38:05",
+      "categoryIdx": 6,
+      "title": "자신만의 시선을 큐레이션 하는 카카오 뷰 에디터의 하루",
+      "content": "카카오에서 새롭게 선보인 카카오 뷰에서는 나의 관심이, 나만의 시선이, 내가 세상을 보는 관점이 콘텐츠가 됩니다. \n\n카카오 뷰에서는 어떤 뷰 에디터들이 활동하고 있을까요?\n뷰 에디터들의 시선은 어디서부터 시작해서 어떻게 사람들과 만나게 될까요?\n\n지금 카카오 뷰 에디터들의 일상을 만나보세요.\n\n💬 이 세션은 소셜 오디오 플랫폼 음mm에서 연사자와 직접 만나는 After Talk이 마련되어 있습니다.\n\n🎙 카톡의 눈 모양은 뭐하는거예요?\nᄂ 일시 : 11월 23일(화) 20:00 ~ 21:30 \nᄂ 링크 : https://www.mm.xyz/event/768cdefd-d12f-41e7-91ed-67fe72649e61\n\n잠깐! 음mm은 모바일 전용 App입니다.\n- Android 사용자 음mm 다운로드  https://play.google.com/store/apps/details?id=com.kakao.mmoa\n- iOS 사용자 음mm 다운로드  https://apps.apple.com/kr/app/id1567177871",
+      "contentTag": "#카카오뷰 #뷰에디터 #콘텐츠큐레이션 #새로운시선 ",
+      "spotlightYn": "Y",
+      "field": "서비스",
+      "sessionType": "C,D Type",
+      "commentYn": "Y",
+      "company": "카카오",
+      "reservationDate": "20211116",
+      "reservationTime": "1000",
+      "linkList": {
+        "FILE": [
+          
+        ],
+        "IMAGE": [
+          
+        ],
+        "WEB_URL": [
+          
+        ],
+        "VIDEO": [
+          {
+            "idx": 4558,
+            "contentsIdx": 11,
+            "type": "VIDEO",
+            "fileSize": 0,
+            "url": "https://tv.kakao.com/embed/player/cliplink/423611117",
+            "description": "9:08",
+            "mainYn": "N"
+          }
+        ],
+        "PC_THUMBNAIL": [
+          
+        ],
+        "MO_THUMBNAIL": [
+          
+        ],
+        "TALK_THUMBNAIL": [
+          
+        ],
+        "SPEAKER_PROFILE": [
+          {
+            "idx": 4556,
+            "contentsIdx": 11,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 104527,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635233702498",
+            "description": "1012_카카오뷰 (1)_허유정.png",
+            "mainYn": "N"
+          },
+          {
+            "idx": 4557,
+            "contentsIdx": 11,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 87242,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635233711907",
+            "description": "1012_카카오뷰 (2)_차우진.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_MAIN_IMAGE": [
+          {
+            "idx": 4551,
+            "contentsIdx": 11,
+            "type": "PC_MAIN_IMAGE",
+            "fileSize": 90887,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636352931538",
+            "description": "step3main_pc_13.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_MAIN_IMAGE": [
+          {
+            "idx": 4552,
+            "contentsIdx": 11,
+            "type": "MO_MAIN_IMAGE",
+            "fileSize": 54157,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636352945837",
+            "description": "step3main_mo_13.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_IMAGE": [
+          {
+            "idx": 4553,
+            "contentsIdx": 11,
+            "type": "PC_IMAGE",
+            "fileSize": 36307,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636352959485",
+            "description": "session_img_pc_13.png",
+            "mainYn": "Y"
+          }
+        ],
+        "MO_IMAGE": [
+          {
+            "idx": 4554,
+            "contentsIdx": 11,
+            "type": "MO_IMAGE",
+            "fileSize": 14547,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636352975158",
+            "description": "session_img_mo_13.png",
+            "mainYn": "N"
+          }
+        ],
+        "SHARE_IMAGE": [
+          {
+            "idx": 4555,
+            "contentsIdx": 11,
+            "type": "SHARE_IMAGE",
+            "fileSize": 36307,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636352986391",
+            "description": "session_img_pc_13.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_SPOTLIGHT": [
+          {
+            "idx": 4549,
+            "contentsIdx": 11,
+            "type": "PC_SPOTLIGHT",
+            "fileSize": 24690,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636354364587",
+            "description": "뷰.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_SPOTLIGHT": [
+          {
+            "idx": 4550,
+            "contentsIdx": 11,
+            "type": "MO_SPOTLIGHT",
+            "fileSize": 17270,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636354376013",
+            "description": "spotlight_mo_13.png",
+            "mainYn": "N"
+          }
+        ]
+      },
+      "relationList": {
+        "CLASSIFICATION": [
+          "플랫폼",
+          "콘텐츠",
+          "크리에이터"
+        ],
+        "TECH_CLASSIFICATION": [
+          
+        ],
+        "MAIN_EXPOSURE_DAY": [
+          "1Day"
+        ]
+      },
+      "contentsSpeakerList": [
+        {
+          "idx": 1447,
+          "contentsIdx": 11,
+          "nameKo": "허유정",
+          "nameEn": "Yujeong Heo",
+          "occupation": "작가"
+        },
+        {
+          "idx": 1448,
+          "contentsIdx": 11,
+          "nameKo": "차우진",
+          "nameEn": "Woojin Cha",
+          "occupation": "음악평론가"
+        }
+      ],
+      "favoriteYn": "N",
+      "newCountentsYn": "N",
+      "updateCountentsYn": "N",
+      "companyName": "카카오",
+      "speakerName": "Yujeong Heo허유정",
+      "speakerLoginYn": "N",
+      "reservationUTC": 1636992000000,
+      "reservationYn": "Y",
+      "videoYn": "Y"
+    },
+    {
+      "idx": 13,
+      "createdUserIdx": 8,
+      "createdDateTime": "2021-10-26 16:38:25",
+      "lastModifiedUserIdx": 16,
+      "lastModifiedDateTime": "2021-11-16 09:38:29",
+      "categoryIdx": 6,
+      "title": "소셜 오디오 플랫폼을 통한 새로운 경험과 기회",
+      "content": "아직은 조금 낯설지만 우리의 일상에 빠르게 스며들고 있는 소셜 오디오 플랫폼의 시대. \n\n'음mm’에서는 비슷한 관심사를 가진 사람들과 바로 대화를 시작할 수 있고, 평소에 만나기 어려운 전문가, 셀럽들의 이야기를 들을 수도 있어요.\n\n음성만으로 누구나 쉽게 콘텐츠 크리에이터가 될 수 있는 공간, ‘음mm’. 100일간 서비스를 이용한 크리에이터들의 솔직한 경험담을 바탕으로 오디오 플랫폼과 새로운 타입의 크리에이터 탄생에 대한 기대 사항을 이야기합니다.\n\n💬 이 세션은 소셜 오디오 플랫폼 음mm에서 연사자와 직접 만나는 After Talk이 마련되어 있습니다.\n\n🎙 크리에이터가 직접 보고 듣고 느낀 음mm 이야기🧐\nᄂ 일시 : 11월 22일(월) 22:00 ~ 23:00 \nᄂ 링크 : https://www.mm.xyz/event/99cfb1b5-c511-4ed4-9001-c565d34e7a88\n\n잠깐! 음mm은 모바일 전용 App입니다.\n- Android 사용자 음mm 다운로드  https://play.google.com/store/apps/details?id=com.kakao.mmoa\n- iOS 사용자 음mm 다운로드  https://apps.apple.com/kr/app/id1567177871",
+      "contentTag": "#음mm  #신규서비스  #오디오플랫폼  #크리에이터",
+      "spotlightYn": "Y",
+      "field": "서비스",
+      "sessionType": "C,D Type",
+      "commentYn": "Y",
+      "company": "카카오",
+      "reservationDate": "20211116",
+      "reservationTime": "1000",
+      "linkList": {
+        "FILE": [
+          
+        ],
+        "IMAGE": [
+          
+        ],
+        "WEB_URL": [
+          
+        ],
+        "VIDEO": [
+          {
+            "idx": 4569,
+            "contentsIdx": 13,
+            "type": "VIDEO",
+            "fileSize": 0,
+            "url": "https://tv.kakao.com/embed/player/cliplink/423611021",
+            "description": "18:07",
+            "mainYn": "N"
+          }
+        ],
+        "PC_THUMBNAIL": [
+          
+        ],
+        "MO_THUMBNAIL": [
+          
+        ],
+        "TALK_THUMBNAIL": [
+          
+        ],
+        "SPEAKER_PROFILE": [
+          {
+            "idx": 4566,
+            "contentsIdx": 13,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 120434,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635233890794",
+            "description": "1015_카카오음_이종범.png",
+            "mainYn": "N"
+          },
+          {
+            "idx": 4567,
+            "contentsIdx": 13,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 118991,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635233896357",
+            "description": "1015_카카오음_윤희.png",
+            "mainYn": "N"
+          },
+          {
+            "idx": 4568,
+            "contentsIdx": 13,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 108592,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635233901686",
+            "description": "1015_카카오음_이동하.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_MAIN_IMAGE": [
+          {
+            "idx": 4561,
+            "contentsIdx": 13,
+            "type": "PC_MAIN_IMAGE",
+            "fileSize": 326674,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636353169519",
+            "description": "step3main_pc_14.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_MAIN_IMAGE": [
+          {
+            "idx": 4562,
+            "contentsIdx": 13,
+            "type": "MO_MAIN_IMAGE",
+            "fileSize": 158708,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636353180371",
+            "description": "step3main_mo_14.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_IMAGE": [
+          {
+            "idx": 4563,
+            "contentsIdx": 13,
+            "type": "PC_IMAGE",
+            "fileSize": 75424,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636353195195",
+            "description": "session_img_pc_14.png",
+            "mainYn": "Y"
+          }
+        ],
+        "MO_IMAGE": [
+          {
+            "idx": 4564,
+            "contentsIdx": 13,
+            "type": "MO_IMAGE",
+            "fileSize": 21000,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636353222438",
+            "description": "session_img_mo_14.png",
+            "mainYn": "N"
+          }
+        ],
+        "SHARE_IMAGE": [
+          {
+            "idx": 4565,
+            "contentsIdx": 13,
+            "type": "SHARE_IMAGE",
+            "fileSize": 75424,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636353201703",
+            "description": "session_img_pc_14.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_SPOTLIGHT": [
+          {
+            "idx": 4559,
+            "contentsIdx": 13,
+            "type": "PC_SPOTLIGHT",
+            "fileSize": 65544,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636354411119",
+            "description": "음.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_SPOTLIGHT": [
+          {
+            "idx": 4560,
+            "contentsIdx": 13,
+            "type": "MO_SPOTLIGHT",
+            "fileSize": 38371,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636354421153",
+            "description": "spotlight_mo_14.png",
+            "mainYn": "N"
+          }
+        ]
+      },
+      "relationList": {
+        "CLASSIFICATION": [
+          "플랫폼",
+          "콘텐츠",
+          "크리에이터"
+        ],
+        "TECH_CLASSIFICATION": [
+          
+        ],
+        "MAIN_EXPOSURE_DAY": [
+          "1Day"
+        ]
+      },
+      "contentsSpeakerList": [
+        {
+          "idx": 1449,
+          "contentsIdx": 13,
+          "nameKo": "이종범",
+          "nameEn": "Jongbeom Lee",
+          "occupation": "웹툰작가"
+        },
+        {
+          "idx": 1450,
+          "contentsIdx": 13,
+          "nameKo": "윤희",
+          "nameEn": "Yunhee",
+          "occupation": "크리에이터"
+        },
+        {
+          "idx": 1451,
+          "contentsIdx": 13,
+          "nameKo": "이동하",
+          "nameEn": "Dongha Lee",
+          "occupation": "성우에이전시 대표"
+        }
+      ],
+      "favoriteYn": "N",
+      "newCountentsYn": "N",
+      "updateCountentsYn": "N",
+      "companyName": "카카오",
+      "speakerName": "Jongbeom Lee이종범",
+      "speakerLoginYn": "N",
+      "reservationUTC": 1636992000000,
+      "reservationYn": "Y",
+      "videoYn": "Y"
+    },
+    {
+      "idx": 15,
+      "createdUserIdx": 8,
+      "createdDateTime": "2021-10-26 16:44:11",
+      "lastModifiedUserIdx": 16,
+      "lastModifiedDateTime": "2021-11-08 15:55:17",
+      "categoryIdx": 6,
+      "title": "모두를 위한 서비스, 카카오가 만들어가는 세상",
+      "content": "나에게 직관적이고 편리한 다양한 카카오의 서비스들, 과연 다른 모든 사람들도 편리하게 이용할 수 있을까?\n\n나에게 편리한 계단이 누군가에겐 넘지 못할 장벽이듯이, 내게는 간편한 서비스의 활용이 누군가에는 어렵고 힘들 수 있습니다.\n\n“시각에 장애가 있는 사용자는 앱을 어떻게 이용할 수 있을까?”\n“지체장애인 사용자가 카카오톡을 이용하는 방법은?”\n“색상을 구분하지 못하는 사용자는 어떤 대안을 제공해야 할까?”\n\n기술과 서비스 이용의 어려움을 해결하여 보다 많은 사람들의 일상을 보다 편리하게 만들기 위해 카카오의 접근성 팀은 오늘도 ‘열일’ 중입니다.",
+      "contentTag": "#접근성 #보편성 #다양성 #a11y #accessibility #장애인 #책임 #UX/UI",
+      "spotlightYn": "Y",
+      "field": "서비스",
+      "sessionType": "C,D Type",
+      "commentYn": "Y",
+      "company": "카카오",
+      "reservationDate": "20211116",
+      "reservationTime": "1000",
+      "linkList": {
+        "FILE": [
+          
+        ],
+        "IMAGE": [
+          
+        ],
+        "WEB_URL": [
+          
+        ],
+        "VIDEO": [
+          {
+            "idx": 3584,
+            "contentsIdx": 15,
+            "type": "VIDEO",
+            "fileSize": 0,
+            "url": "https://tv.kakao.com/embed/player/cliplink/423610157",
+            "description": "17:10",
+            "mainYn": "N"
+          }
+        ],
+        "PC_THUMBNAIL": [
+          
+        ],
+        "MO_THUMBNAIL": [
+          
+        ],
+        "TALK_THUMBNAIL": [
+          
+        ],
+        "SPEAKER_PROFILE": [
+          {
+            "idx": 3582,
+            "contentsIdx": 15,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 159570,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635294262692",
+            "description": "1015_카카오 ESG (2)_김혜일.png",
+            "mainYn": "N"
+          },
+          {
+            "idx": 3583,
+            "contentsIdx": 15,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 148015,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635294262695",
+            "description": "1015_카카오 ESG (2)_정현화.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_MAIN_IMAGE": [
+          {
+            "idx": 3577,
+            "contentsIdx": 15,
+            "type": "PC_MAIN_IMAGE",
+            "fileSize": 363250,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636353446453",
+            "description": "step3main_pc_16.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_MAIN_IMAGE": [
+          {
+            "idx": 3578,
+            "contentsIdx": 15,
+            "type": "MO_MAIN_IMAGE",
+            "fileSize": 174571,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636353455786",
+            "description": "step3main_mo_16.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_IMAGE": [
+          {
+            "idx": 3579,
+            "contentsIdx": 15,
+            "type": "PC_IMAGE",
+            "fileSize": 80998,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636353468287",
+            "description": "session_img_pc_16.png",
+            "mainYn": "Y"
+          }
+        ],
+        "MO_IMAGE": [
+          {
+            "idx": 3580,
+            "contentsIdx": 15,
+            "type": "MO_IMAGE",
+            "fileSize": 21339,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636353477838",
+            "description": "session_img_mo_16.png",
+            "mainYn": "N"
+          }
+        ],
+        "SHARE_IMAGE": [
+          {
+            "idx": 3581,
+            "contentsIdx": 15,
+            "type": "SHARE_IMAGE",
+            "fileSize": 80998,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636353486807",
+            "description": "session_img_pc_16.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_SPOTLIGHT": [
+          {
+            "idx": 3575,
+            "contentsIdx": 15,
+            "type": "PC_SPOTLIGHT",
+            "fileSize": 64921,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636354504573",
+            "description": "ESG.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_SPOTLIGHT": [
+          {
+            "idx": 3576,
+            "contentsIdx": 15,
+            "type": "MO_SPOTLIGHT",
+            "fileSize": 38269,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636354514039",
+            "description": "spotlight_mo_16.png",
+            "mainYn": "N"
+          }
+        ]
+      },
+      "relationList": {
+        "CLASSIFICATION": [
+          "ESG",
+          "소셜임팩트"
+        ],
+        "TECH_CLASSIFICATION": [
+          
+        ],
+        "MAIN_EXPOSURE_DAY": [
+          "1Day"
+        ]
+      },
+      "contentsSpeakerList": [
+        {
+          "idx": 1261,
+          "contentsIdx": 15,
+          "nameKo": "김혜일",
+          "nameEn": "haeppa",
+          "company": "링키지랩",
+          "occupation": "접근성팀"
+        },
+        {
+          "idx": 1262,
+          "contentsIdx": 15,
+          "nameKo": "정현화",
+          "nameEn": "mia",
+          "company": "링키지랩",
+          "occupation": "접근성팀"
+        }
+      ],
+      "favoriteYn": "N",
+      "newCountentsYn": "N",
+      "updateCountentsYn": "N",
+      "companyName": "카카오",
+      "speakerName": "haeppa김혜일",
+      "speakerLoginYn": "N",
+      "reservationUTC": 1636992000000,
+      "reservationYn": "Y",
+      "videoYn": "Y"
+    },
+    {
+      "idx": 10,
+      "createdUserIdx": 8,
+      "createdDateTime": "2021-10-26 16:28:45",
+      "lastModifiedUserIdx": 16,
+      "lastModifiedDateTime": "2021-11-08 15:54:44",
+      "categoryIdx": 6,
+      "title": "파트너와 함께 만드는 연결의 가치, 카카오 클래스",
+      "content": "카카오는 오늘도 파트너들과 함께 성장하고 있습니다.\n카카오 클래스는 예비 창업자, 소상공인을 위해 서비스 플랫폼 활용 노하우를 제공합니다.\n\n언택트 시대에 맞춰 카카오 클래스와 파트너들은 새롭게 변화하고 있습니다.\n동네의 작은 상점은 카카오톡 스토어를 통해 모바일 상점으로 변화했고, 판로를 걱정하던 지역의 농가는 이제 전국의 소비자들과 만나고 있습니다.\n카카오 클래스는 플랫폼 교육에서부터 입점 지원, 마케팅 지원까지 함께 합니다.\n\n카카오 클래스를 기획하고 만들어온 크루들과 파트너들의 생생한 후기, 그리고 카카오 클래스의 성과와 앞으로의 과제에 대해 들어 봅니다.",
+      "contentTag": "#파트너 #소상공인 #상생협력 #지역협력 #파트너교육 #카카오클래스",
+      "spotlightYn": "Y",
+      "field": "비즈니스",
+      "sessionType": "C,D Type",
+      "commentYn": "Y",
+      "company": "카카오",
+      "reservationDate": "20211116",
+      "reservationTime": "1000",
+      "linkList": {
+        "FILE": [
+          
+        ],
+        "IMAGE": [
+          
+        ],
+        "WEB_URL": [
+          
+        ],
+        "VIDEO": [
+          {
+            "idx": 3574,
+            "contentsIdx": 10,
+            "type": "VIDEO",
+            "fileSize": 0,
+            "url": "https://tv.kakao.com/embed/player/cliplink/423610030",
+            "description": "21:05",
+            "mainYn": "N"
+          }
+        ],
+        "PC_THUMBNAIL": [
+          
+        ],
+        "MO_THUMBNAIL": [
+          
+        ],
+        "TALK_THUMBNAIL": [
+          
+        ],
+        "SPEAKER_PROFILE": [
+          {
+            "idx": 3570,
+            "contentsIdx": 10,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 114225,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635233298533",
+            "description": "1012_카카오 ESG (1)_이재승.png",
+            "mainYn": "N"
+          },
+          {
+            "idx": 3571,
+            "contentsIdx": 10,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 150606,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635233306255",
+            "description": "1012_카카오 ESG (1)_이정미.png",
+            "mainYn": "N"
+          },
+          {
+            "idx": 3572,
+            "contentsIdx": 10,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 154261,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635233312421",
+            "description": "1012_카카오 ESG (1)_윤혜원.png",
+            "mainYn": "N"
+          },
+          {
+            "idx": 3573,
+            "contentsIdx": 10,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 181221,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635233321068",
+            "description": "1012_카카오 ESG (1)_전정환.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_MAIN_IMAGE": [
+          {
+            "idx": 3565,
+            "contentsIdx": 10,
+            "type": "PC_MAIN_IMAGE",
+            "fileSize": 176333,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420244027",
+            "description": "카카오클래스.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_MAIN_IMAGE": [
+          {
+            "idx": 3566,
+            "contentsIdx": 10,
+            "type": "MO_MAIN_IMAGE",
+            "fileSize": 374931,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420257124",
+            "description": "***1027_A세션_썸네일_55.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_IMAGE": [
+          {
+            "idx": 3567,
+            "contentsIdx": 10,
+            "type": "PC_IMAGE",
+            "fileSize": 92386,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635421327186",
+            "description": "클래스.png",
+            "mainYn": "Y"
+          }
+        ],
+        "MO_IMAGE": [
+          {
+            "idx": 3568,
+            "contentsIdx": 10,
+            "type": "MO_IMAGE",
+            "fileSize": 23108,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635421347732",
+            "description": "클래스.png",
+            "mainYn": "N"
+          }
+        ],
+        "SHARE_IMAGE": [
+          {
+            "idx": 3569,
+            "contentsIdx": 10,
+            "type": "SHARE_IMAGE",
+            "fileSize": 92386,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635421337156",
+            "description": "클래스.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_SPOTLIGHT": [
+          {
+            "idx": 3563,
+            "contentsIdx": 10,
+            "type": "PC_SPOTLIGHT",
+            "fileSize": 32168,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636354470499",
+            "description": "클래스.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_SPOTLIGHT": [
+          {
+            "idx": 3564,
+            "contentsIdx": 10,
+            "type": "MO_SPOTLIGHT",
+            "fileSize": 20306,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1636354481098",
+            "description": "spotlight_mo_17.png",
+            "mainYn": "N"
+          }
+        ]
+      },
+      "relationList": {
+        "CLASSIFICATION": [
+          "ESG",
+          "소셜임팩트",
+          "파트너성장"
+        ],
+        "TECH_CLASSIFICATION": [
+          
+        ],
+        "MAIN_EXPOSURE_DAY": [
+          "1Day"
+        ]
+      },
+      "contentsSpeakerList": [
+        {
+          "idx": 1257,
+          "contentsIdx": 10,
+          "nameKo": "이재승",
+          "nameEn": "jason",
+          "company": "카카오",
+          "occupation": "팀장",
+          "channelLink": "https://pf.kakao.com/_mIxbzs"
+        },
+        {
+          "idx": 1258,
+          "contentsIdx": 10,
+          "nameKo": "이정미",
+          "nameEn": "mimi",
+          "company": "카카오",
+          "occupation": "매니저"
+        },
+        {
+          "idx": 1259,
+          "contentsIdx": 10,
+          "nameKo": "윤혜원",
+          "nameEn": "j",
+          "company": "카카오",
+          "occupation": "MD"
+        },
+        {
+          "idx": 1260,
+          "contentsIdx": 10,
+          "nameKo": "전정환",
+          "nameEn": "aris",
+          "company": "제주창조혁신센터",
+          "occupation": "센터장"
+        }
+      ],
+      "favoriteYn": "N",
+      "newCountentsYn": "N",
+      "updateCountentsYn": "N",
+      "companyName": "카카오",
+      "speakerName": "jason이재승",
+      "speakerLoginYn": "N",
+      "reservationUTC": 1636992000000,
+      "reservationYn": "Y",
+      "videoYn": "Y"
+    },
+    {
+      "idx": 124,
+      "createdUserIdx": 16,
+      "createdDateTime": "2021-10-28 19:39:29",
+      "lastModifiedUserIdx": 16,
+      "lastModifiedDateTime": "2021-11-09 16:23:52",
+      "categoryIdx": 7,
+      "title": "기술로 꿈꾸는 새로운 세상",
+      "content": "기술을 통해 새로운 변화를 이끄는 카카오의 노력들을 소개합니다.\n\n일상의 변화에서 만난 카카오의 서비스들, 그 속에 담긴 '기술'에 관한 이야기를 담아보았습니다.\n\n나아가 카카오와 기술과 문화로 함께 성장하는 기술, 함께 변화하는 일상을 지금 만나보세요.",
+      "contentTag": " #kakaoTech  #Cloud  #추천기술  #카카오인증서비스  #지갑  #카카오뷰",
+      "spotlightYn": "Y",
+      "field": "기술",
+      "sessionType": "Opening",
+      "commentYn": "Y",
+      "company": "카카오",
+      "reservationDate": "20211117",
+      "reservationTime": "1000",
+      "linkList": {
+        "FILE": [
+          
+        ],
+        "IMAGE": [
+          
+        ],
+        "WEB_URL": [
+          
+        ],
+        "VIDEO": [
+          {
+            "idx": 3647,
+            "contentsIdx": 124,
+            "type": "VIDEO",
+            "fileSize": 0,
+            "url": "https://tv.kakao.com/embed/player/cliplink/423774135",
+            "description": "16:31",
+            "mainYn": "N"
+          }
+        ],
+        "PC_THUMBNAIL": [
+          
+        ],
+        "MO_THUMBNAIL": [
+          
+        ],
+        "TALK_THUMBNAIL": [
+          
+        ],
+        "SPEAKER_PROFILE": [
+          {
+            "idx": 3646,
+            "contentsIdx": 124,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 103673,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635418290695",
+            "description": "If Kakao_CTO_1022.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_MAIN_IMAGE": [
+          {
+            "idx": 3641,
+            "contentsIdx": 124,
+            "type": "PC_MAIN_IMAGE",
+            "fileSize": 189507,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635418220006",
+            "description": "찰스.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_MAIN_IMAGE": [
+          {
+            "idx": 3642,
+            "contentsIdx": 124,
+            "type": "MO_MAIN_IMAGE",
+            "fileSize": 81989,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635418231105",
+            "description": "찰스.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_IMAGE": [
+          {
+            "idx": 3643,
+            "contentsIdx": 124,
+            "type": "PC_IMAGE",
+            "fileSize": 52261,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635418250554",
+            "description": "찰스.png",
+            "mainYn": "Y"
+          }
+        ],
+        "MO_IMAGE": [
+          {
+            "idx": 3644,
+            "contentsIdx": 124,
+            "type": "MO_IMAGE",
+            "fileSize": 15568,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635418257952",
+            "description": "찰스.png",
+            "mainYn": "N"
+          }
+        ],
+        "SHARE_IMAGE": [
+          {
+            "idx": 3645,
+            "contentsIdx": 124,
+            "type": "SHARE_IMAGE",
+            "fileSize": 52261,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635418266126",
+            "description": "찰스.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_SPOTLIGHT": [
+          {
+            "idx": 3639,
+            "contentsIdx": 124,
+            "type": "PC_SPOTLIGHT",
+            "fileSize": 50188,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420647029",
+            "description": "찰스.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_SPOTLIGHT": [
+          {
+            "idx": 3640,
+            "contentsIdx": 124,
+            "type": "MO_SPOTLIGHT",
+            "fileSize": 29889,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420657055",
+            "description": "찰스.png",
+            "mainYn": "N"
+          }
+        ]
+      },
+      "relationList": {
+        "CLASSIFICATION": [
+          "플랫폼"
+        ],
+        "TECH_CLASSIFICATION": [
+          "클라우드",
+          "개발문화",
+          "기타"
+        ],
+        "MAIN_EXPOSURE_DAY": [
+          "2Day"
+        ]
+      },
+      "contentsSpeakerList": [
+        {
+          "idx": 1269,
+          "contentsIdx": 124,
+          "nameKo": "정의정",
+          "nameEn": "charles",
+          "company": "카카오",
+          "occupation": "CTO"
+        }
+      ],
+      "favoriteYn": "N",
+      "newCountentsYn": "N",
+      "updateCountentsYn": "N",
+      "companyName": "카카오",
+      "speakerName": "charles정의정",
+      "speakerLoginYn": "N",
+      "reservationUTC": 1637078400000,
+      "reservationYn": "Y",
+      "videoYn": "Y"
+    },
+    {
+      "idx": 125,
+      "createdUserIdx": 16,
+      "createdDateTime": "2021-10-28 19:40:06",
+      "lastModifiedUserIdx": 16,
+      "lastModifiedDateTime": "2021-11-09 16:24:50",
+      "categoryIdx": 7,
+      "title": "모빌리티 데이터로 그리는 기술 생태계",
+      "content": "모빌리티 서비스의 성장과 함께, 그동안 오프라인에서만 존재했던 이동에 관한 다양한 데이터들, 특히 시공간 정보 데이터들이 축적되고 있습니다. 이러한 모빌리티 데이터들에 대한 관심과 중요성이 증대되고 있는 흐름에 맞추어, 모빌리티 데이터의 특징에 대해서 소개하고, 모빌리티 데이터들을 잘 활용하기 위한 다양한 기술 연구 현황, 그리고 카카오모빌리티가 그리는 데이터 허브와 기술 생태계의 미래를 소개합니다.",
+      "contentTag": "#기술생태계  #데이터허브  #모빌리티데이터  #경로최적화  #맵매칭 ",
+      "spotlightYn": "Y",
+      "field": "기술",
+      "sessionType": "A Type",
+      "commentYn": "Y",
+      "company": "카카오모빌리티",
+      "reservationDate": "20211117",
+      "reservationTime": "1000",
+      "linkList": {
+        "FILE": [
+          
+        ],
+        "IMAGE": [
+          
+        ],
+        "WEB_URL": [
+          
+        ],
+        "VIDEO": [
+          {
+            "idx": 3665,
+            "contentsIdx": 125,
+            "type": "VIDEO",
+            "fileSize": 0,
+            "url": "https://tv.kakao.com/embed/player/cliplink/423774015",
+            "description": "13:08",
+            "mainYn": "N"
+          }
+        ],
+        "PC_THUMBNAIL": [
+          
+        ],
+        "MO_THUMBNAIL": [
+          
+        ],
+        "TALK_THUMBNAIL": [
+          
+        ],
+        "SPEAKER_PROFILE": [
+          {
+            "idx": 3664,
+            "contentsIdx": 125,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 98736,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635418431790",
+            "description": "If Kakao_mobility_CTO_1022.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_MAIN_IMAGE": [
+          {
+            "idx": 3659,
+            "contentsIdx": 125,
+            "type": "PC_MAIN_IMAGE",
+            "fileSize": 1061791,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635418460389",
+            "description": "모빌리티.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_MAIN_IMAGE": [
+          {
+            "idx": 3660,
+            "contentsIdx": 125,
+            "type": "MO_MAIN_IMAGE",
+            "fileSize": 494906,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635418468693",
+            "description": "모빌티리CTO.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_IMAGE": [
+          {
+            "idx": 3661,
+            "contentsIdx": 125,
+            "type": "PC_IMAGE",
+            "fileSize": 302196,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635418480905",
+            "description": "모빌리티씨.png",
+            "mainYn": "Y"
+          }
+        ],
+        "MO_IMAGE": [
+          {
+            "idx": 3662,
+            "contentsIdx": 125,
+            "type": "MO_IMAGE",
+            "fileSize": 65191,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635418496446",
+            "description": "모빌리티.png",
+            "mainYn": "N"
+          }
+        ],
+        "SHARE_IMAGE": [
+          {
+            "idx": 3663,
+            "contentsIdx": 125,
+            "type": "SHARE_IMAGE",
+            "fileSize": 302196,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635418488666",
+            "description": "모빌리티씨.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_SPOTLIGHT": [
+          {
+            "idx": 3657,
+            "contentsIdx": 125,
+            "type": "PC_SPOTLIGHT",
+            "fileSize": 49669,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635422141534",
+            "description": "모빌리티씨.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_SPOTLIGHT": [
+          {
+            "idx": 3658,
+            "contentsIdx": 125,
+            "type": "MO_SPOTLIGHT",
+            "fileSize": 30460,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635422536580",
+            "description": "모빌리티씨.png",
+            "mainYn": "N"
+          }
+        ]
+      },
+      "relationList": {
+        "CLASSIFICATION": [
+          
+        ],
+        "TECH_CLASSIFICATION": [
+          "데이터",
+          "기타",
+          "모바일"
+        ],
+        "MAIN_EXPOSURE_DAY": [
+          "2Day"
+        ]
+      },
+      "contentsSpeakerList": [
+        {
+          "idx": 1271,
+          "contentsIdx": 125,
+          "nameKo": "유승일",
+          "nameEn": "sean",
+          "company": "카카오모빌리티",
+          "occupation": "CTO"
+        }
+      ],
+      "favoriteYn": "N",
+      "newCountentsYn": "N",
+      "updateCountentsYn": "N",
+      "companyName": "카카오모빌리티",
+      "speakerName": "sean유승일",
+      "speakerLoginYn": "N",
+      "reservationUTC": 1637078400000,
+      "reservationYn": "Y",
+      "videoYn": "Y"
+    },
+    {
+      "idx": 126,
+      "createdUserIdx": 16,
+      "createdDateTime": "2021-10-28 19:40:28",
+      "lastModifiedUserIdx": 16,
+      "lastModifiedDateTime": "2021-11-08 10:58:05",
+      "categoryIdx": 7,
+      "title": "카카오뱅크, 은행을 엔지니어링 하다.",
+      "content": "카카오뱅크는 모바일 뱅킹 서비스를 통해 금융 혁신을 주도해왔습니다. \n이러한 혁신의 바탕에는 '기술'과 '개발 문화'에 대한 기존 금융과 다른 해석과 접근이 있었다고 생각합니다. \n'은행을 엔지니어링 하자'라는 모토로 계속해서 기술로 금융을 혁신해나고 있는 카카오뱅크의 모습을 확인해 보세요.",
+      "contentTag": "#카카오뱅크   #엔지니어링  #금융  #핀테크",
+      "spotlightYn": "Y",
+      "field": "기술",
+      "sessionType": "A Type",
+      "commentYn": "Y",
+      "company": "카카오뱅크",
+      "reservationDate": "20211117",
+      "reservationTime": "1000",
+      "linkList": {
+        "FILE": [
+          
+        ],
+        "IMAGE": [
+          
+        ],
+        "WEB_URL": [
+          
+        ],
+        "VIDEO": [
+          {
+            "idx": 3405,
+            "contentsIdx": 126,
+            "type": "VIDEO",
+            "fileSize": 0,
+            "url": "https://tv.kakao.com/embed/player/cliplink/423738675",
+            "description": "10:04",
+            "mainYn": "N"
+          }
+        ],
+        "PC_THUMBNAIL": [
+          
+        ],
+        "MO_THUMBNAIL": [
+          
+        ],
+        "TALK_THUMBNAIL": [
+          
+        ],
+        "SPEAKER_PROFILE": [
+          {
+            "idx": 3404,
+            "contentsIdx": 126,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 103368,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635418759261",
+            "description": "1011_카카오뱅크_정규돈.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_MAIN_IMAGE": [
+          {
+            "idx": 3399,
+            "contentsIdx": 126,
+            "type": "PC_MAIN_IMAGE",
+            "fileSize": 83759,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420850319",
+            "description": "뱅크CTO.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_MAIN_IMAGE": [
+          {
+            "idx": 3400,
+            "contentsIdx": 126,
+            "type": "MO_MAIN_IMAGE",
+            "fileSize": 47805,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420857799",
+            "description": "뱅크CTO.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_IMAGE": [
+          {
+            "idx": 3401,
+            "contentsIdx": 126,
+            "type": "PC_IMAGE",
+            "fileSize": 26357,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420873891",
+            "description": "뱅크씨.png",
+            "mainYn": "Y"
+          }
+        ],
+        "MO_IMAGE": [
+          {
+            "idx": 3402,
+            "contentsIdx": 126,
+            "type": "MO_IMAGE",
+            "fileSize": 8945,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420885484",
+            "description": "뱅크씨.png",
+            "mainYn": "N"
+          }
+        ],
+        "SHARE_IMAGE": [
+          {
+            "idx": 3403,
+            "contentsIdx": 126,
+            "type": "SHARE_IMAGE",
+            "fileSize": 26357,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420877593",
+            "description": "뱅크씨.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_SPOTLIGHT": [
+          {
+            "idx": 3397,
+            "contentsIdx": 126,
+            "type": "PC_SPOTLIGHT",
+            "fileSize": 14401,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420832910",
+            "description": "뱅크씨.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_SPOTLIGHT": [
+          {
+            "idx": 3398,
+            "contentsIdx": 126,
+            "type": "MO_SPOTLIGHT",
+            "fileSize": 10393,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420840429",
+            "description": "뱅크씨.png",
+            "mainYn": "N"
+          }
+        ]
+      },
+      "relationList": {
+        "CLASSIFICATION": [
+          "핀테크"
+        ],
+        "TECH_CLASSIFICATION": [
+          "개발문화",
+          "기타"
+        ],
+        "MAIN_EXPOSURE_DAY": [
+          
+        ]
+      },
+      "contentsSpeakerList": [
+        {
+          "idx": 1200,
+          "contentsIdx": 126,
+          "nameKo": "정규돈",
+          "nameEn": "GD",
+          "company": "카카오뱅크",
+          "occupation": "CTO"
+        }
+      ],
+      "favoriteYn": "N",
+      "newCountentsYn": "N",
+      "updateCountentsYn": "N",
+      "companyName": "카카오뱅크",
+      "speakerName": "GD정규돈",
+      "speakerLoginYn": "N",
+      "reservationUTC": 1637078400000,
+      "reservationYn": "Y",
+      "videoYn": "Y"
+    },
+    {
+      "idx": 127,
+      "createdUserIdx": 16,
+      "createdDateTime": "2021-10-28 19:40:48",
+      "lastModifiedUserIdx": 16,
+      "lastModifiedDateTime": "2021-11-16 10:38:40",
+      "categoryIdx": 7,
+      "title": "카카오엔터프라이즈가 AI를 풀어내는 방법",
+      "content": "카카오엔터프라이즈 AI Lab은 카카오 공동체 중 가장 규모가 큰 AI 연구 조직입니다.\n\n어제보다 오늘 더 나은 세상을 만들기 위해 AI Lab이 걷고 있는 길을 소개하고, 오직 카카오엔터프라이즈에서만 가능한 연구와 개발, 그리고 서비스의 경험을 전합니다.\n\n오늘도 revolution과 evolution 사이를 오가는 AI 기술, 그 가깝고도 먼 미래를 고민하는 모든 분들과 나누고 싶은 이야기입니다.",
+      "contentTag": "#카카오엔터프라이즈  #모두를위한AI #인공지능  #kakaoi  #연구개발 ",
+      "spotlightYn": "Y",
+      "field": "기술",
+      "sessionType": "A Type",
+      "commentYn": "Y",
+      "company": "카카오엔터프라이즈",
+      "reservationDate": "20211117",
+      "reservationTime": "1000",
+      "linkList": {
+        "FILE": [
+          
+        ],
+        "IMAGE": [
+          
+        ],
+        "WEB_URL": [
+          
+        ],
+        "VIDEO": [
+          {
+            "idx": 4647,
+            "contentsIdx": 127,
+            "type": "VIDEO",
+            "fileSize": 0,
+            "url": "https://tv.kakao.com/embed/player/cliplink/423773883",
+            "description": "12:50",
+            "mainYn": "N"
+          }
+        ],
+        "PC_THUMBNAIL": [
+          
+        ],
+        "MO_THUMBNAIL": [
+          
+        ],
+        "TALK_THUMBNAIL": [
+          
+        ],
+        "SPEAKER_PROFILE": [
+          {
+            "idx": 4646,
+            "contentsIdx": 127,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 96652,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635418954083",
+            "description": "If Kakao_Enterprise_CTO_1021.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_MAIN_IMAGE": [
+          {
+            "idx": 4641,
+            "contentsIdx": 127,
+            "type": "PC_MAIN_IMAGE",
+            "fileSize": 320896,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635418979931",
+            "description": "엔터프CTO.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_MAIN_IMAGE": [
+          {
+            "idx": 4642,
+            "contentsIdx": 127,
+            "type": "MO_MAIN_IMAGE",
+            "fileSize": 136900,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635418989431",
+            "description": "엔터프CTO.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_IMAGE": [
+          {
+            "idx": 4643,
+            "contentsIdx": 127,
+            "type": "PC_IMAGE",
+            "fileSize": 69342,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635418998963",
+            "description": "엔터프씨.png",
+            "mainYn": "Y"
+          }
+        ],
+        "MO_IMAGE": [
+          {
+            "idx": 4644,
+            "contentsIdx": 127,
+            "type": "MO_IMAGE",
+            "fileSize": 15577,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635419015832",
+            "description": "엔터프씨.png",
+            "mainYn": "N"
+          }
+        ],
+        "SHARE_IMAGE": [
+          {
+            "idx": 4645,
+            "contentsIdx": 127,
+            "type": "SHARE_IMAGE",
+            "fileSize": 69342,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635419004918",
+            "description": "엔터프씨.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_SPOTLIGHT": [
+          {
+            "idx": 4639,
+            "contentsIdx": 127,
+            "type": "PC_SPOTLIGHT",
+            "fileSize": 31569,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635422203052",
+            "description": "엔터프씨.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_SPOTLIGHT": [
+          {
+            "idx": 4640,
+            "contentsIdx": 127,
+            "type": "MO_SPOTLIGHT",
+            "fileSize": 18451,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635422211866",
+            "description": "엔터프씨.png",
+            "mainYn": "N"
+          }
+        ]
+      },
+      "relationList": {
+        "CLASSIFICATION": [
+          
+        ],
+        "TECH_CLASSIFICATION": [
+          "머신러닝/AI",
+          "데이터",
+          "클라우드"
+        ],
+        "MAIN_EXPOSURE_DAY": [
+          "2Day"
+        ]
+      },
+      "contentsSpeakerList": [
+        {
+          "idx": 1463,
+          "contentsIdx": 127,
+          "nameKo": "최동진",
+          "nameEn": "colin",
+          "company": "카카오엔터프라이즈",
+          "occupation": "AI Lab장"
+        }
+      ],
+      "favoriteYn": "N",
+      "newCountentsYn": "N",
+      "updateCountentsYn": "N",
+      "companyName": "카카오엔터프라이즈",
+      "speakerName": "colin최동진",
+      "speakerLoginYn": "N",
+      "reservationUTC": 1637078400000,
+      "reservationYn": "Y",
+      "videoYn": "Y"
+    },
+    {
+      "idx": 128,
+      "createdUserIdx": 16,
+      "createdDateTime": "2021-10-28 19:41:12",
+      "lastModifiedUserIdx": 16,
+      "lastModifiedDateTime": "2021-11-08 10:58:59",
+      "categoryIdx": 7,
+      "title": "세상의 모든 금융을 카카오페이로 마음 놓고 할 수 있다면?",
+      "content": "카카오페이는 모두가 마음 놓고 금융 할 수 있는 세상을 만들기 위해 어떠한 노력을 하고 있을까요?\n\n데이터 기반의 의사 결정 체계, 플랫폼 신뢰성과 안정성을 위한 기술 혁신, 국내 최고 수준의 인증 기술과 새로운 신용 평가 모델 등 카카오페이 기술의 현재와 미래를 CTO와 기술 개발 담당자들이 직접 이야기합니다.",
+      "contentTag": "#카카오페이  #테크핀   #머신러닝",
+      "spotlightYn": "Y",
+      "field": "기술",
+      "sessionType": "A Type",
+      "commentYn": "Y",
+      "company": "카카오페이",
+      "reservationDate": "20211117",
+      "reservationTime": "1000",
+      "linkList": {
+        "FILE": [
+          
+        ],
+        "IMAGE": [
+          
+        ],
+        "WEB_URL": [
+          
+        ],
+        "VIDEO": [
+          {
+            "idx": 3418,
+            "contentsIdx": 128,
+            "type": "VIDEO",
+            "fileSize": 0,
+            "url": "https://tv.kakao.com/embed/player/cliplink/423738582",
+            "description": "17:06",
+            "mainYn": "N"
+          }
+        ],
+        "PC_THUMBNAIL": [
+          
+        ],
+        "MO_THUMBNAIL": [
+          
+        ],
+        "TALK_THUMBNAIL": [
+          
+        ],
+        "SPEAKER_PROFILE": [
+          {
+            "idx": 3413,
+            "contentsIdx": 128,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 70002,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635419155832",
+            "description": "1005_카카오페이_나호열.png",
+            "mainYn": "N"
+          },
+          {
+            "idx": 3414,
+            "contentsIdx": 128,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 102676,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635419165759",
+            "description": "1005_카카오페이_양원석.png",
+            "mainYn": "N"
+          },
+          {
+            "idx": 3415,
+            "contentsIdx": 128,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 87820,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635419172806",
+            "description": "1005_카카오페이_조지훈.png",
+            "mainYn": "N"
+          },
+          {
+            "idx": 3416,
+            "contentsIdx": 128,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 85169,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635419179557",
+            "description": "1005_카카오페이_오민석.png",
+            "mainYn": "N"
+          },
+          {
+            "idx": 3417,
+            "contentsIdx": 128,
+            "type": "SPEAKER_PROFILE",
+            "fileSize": 95667,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635419187877",
+            "description": "1005_카카오페이_김흥수.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_MAIN_IMAGE": [
+          {
+            "idx": 3408,
+            "contentsIdx": 128,
+            "type": "PC_MAIN_IMAGE",
+            "fileSize": 507148,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420721827",
+            "description": "페이CTO.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_MAIN_IMAGE": [
+          {
+            "idx": 3409,
+            "contentsIdx": 128,
+            "type": "MO_MAIN_IMAGE",
+            "fileSize": 246856,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420731006",
+            "description": "페이CTO.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_IMAGE": [
+          {
+            "idx": 3410,
+            "contentsIdx": 128,
+            "type": "PC_IMAGE",
+            "fileSize": 106504,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420744331",
+            "description": "페이씨.png",
+            "mainYn": "Y"
+          }
+        ],
+        "MO_IMAGE": [
+          {
+            "idx": 3411,
+            "contentsIdx": 128,
+            "type": "MO_IMAGE",
+            "fileSize": 25035,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420755632",
+            "description": "페이씨.png",
+            "mainYn": "N"
+          }
+        ],
+        "SHARE_IMAGE": [
+          {
+            "idx": 3412,
+            "contentsIdx": 128,
+            "type": "SHARE_IMAGE",
+            "fileSize": 106504,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420767902",
+            "description": "페이씨.png",
+            "mainYn": "N"
+          }
+        ],
+        "PC_SPOTLIGHT": [
+          {
+            "idx": 3406,
+            "contentsIdx": 128,
+            "type": "PC_SPOTLIGHT",
+            "fileSize": 66086,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420702208",
+            "description": "페이씨.png",
+            "mainYn": "N"
+          }
+        ],
+        "MO_SPOTLIGHT": [
+          {
+            "idx": 3407,
+            "contentsIdx": 128,
+            "type": "MO_SPOTLIGHT",
+            "fileSize": 39578,
+            "url": "https://t1.kakaocdn.net/service_if_kakao_prod/file/file-1635420685352",
+            "description": "페이씨.png",
+            "mainYn": "N"
+          }
+        ]
+      },
+      "relationList": {
+        "CLASSIFICATION": [
+          "핀테크"
+        ],
+        "TECH_CLASSIFICATION": [
+          "개발문화",
+          "머신러닝/AI",
+          "데이터"
+        ],
+        "MAIN_EXPOSURE_DAY": [
+          "2Day"
+        ]
+      },
+      "contentsSpeakerList": [
+        {
+          "idx": 1201,
+          "contentsIdx": 128,
+          "nameKo": "나호열",
+          "nameEn": "hoya",
+          "company": "카카오페이",
+          "occupation": "CTO"
+        },
+        {
+          "idx": 1202,
+          "contentsIdx": 128,
+          "nameKo": "양원석",
+          "nameEn": "joel",
+          "company": "카카오페이"
+        },
+        {
+          "idx": 1203,
+          "contentsIdx": 128,
+          "nameKo": "조지훈",
+          "nameEn": "josh",
+          "company": "카카오페이"
+        },
+        {
+          "idx": 1204,
+          "contentsIdx": 128,
+          "nameKo": "오민석",
+          "nameEn": "max",
+          "company": "카카오페이"
+        },
+        {
+          "idx": 1205,
+          "contentsIdx": 128,
+          "nameKo": "김홍수",
+          "nameEn": "herald",
+          "company": "카카오페이"
+        }
+      ],
+      "favoriteYn": "N",
+      "newCountentsYn": "N",
+      "updateCountentsYn": "N",
+      "companyName": "카카오페이",
+      "speakerName": "hoya나호열",
+      "speakerLoginYn": "N",
+      "reservationUTC": 1637078400000,
+      "reservationYn": "Y",
+      "videoYn": "Y"
+    }
+  ],
+  "count": 16,
+  "errorMessage": null
+}
